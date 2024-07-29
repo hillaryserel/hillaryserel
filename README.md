@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hillary Serel</h1>
-<h3 align="center">A passionate Frontend Developer from Kenya</h3>
+<h3 align="center">A passionate FrontEnd Developer from Kenya</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/hillary_serel" target="blank"><img src="https://img.shields.io/twitter/follow/hillary_serel?logo=twitter&style=for-the-badge" alt="hillary_serel" /></a> </p>
 
