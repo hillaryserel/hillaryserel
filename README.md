@@ -35,6 +35,7 @@
 
 ### 13. [Liquid Background Effect](https://hillaryserel.github.io/Liquid-Background-Effect/)
 
+### 14. [LinkedIn-Notification-UI](https://hillaryserel.github.io/LinkedIn-Notification-UI/)
 
 ## Contact
 
