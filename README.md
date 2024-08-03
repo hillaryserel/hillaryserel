@@ -23,11 +23,11 @@
 
 ### 7. [Online Code Editor](https://hillaryserel.github.io/Online-Code-Editor/)
 
-### 8. []()
+### 8. [Task-Management-App-UI](https://hillaryserel.github.io/Task-Management-App-UI/)
 
-### 9. []()
+### 9. [Text to Speech Converter](https://hillaryserel.github.io/Text-to-Speech-Converter/)
 
-### 10. []()
+### 10. [Online Quiz Platform](https://hillaryserel.github.io/Online-Quiz-Platform/)
 
 ### 11. []()
 
