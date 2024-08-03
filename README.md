@@ -9,7 +9,7 @@
 
 ## Projects i've previously worked on:
 
-### 1. [Project Name 1](https://github.com/your-username/project-repo-1)
+### 1. [Ecommerce Website](https://github.com/your-username/project-repo-1)
 
 ### 2. [Project Name 2](https://github.com/your-username/project-repo-2)
 
