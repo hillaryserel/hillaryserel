@@ -37,6 +37,8 @@
 
 ### 14. [LinkedIn-Notification-UI](https://hillaryserel.github.io/LinkedIn-Notification-UI/)
 
+### 11. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
