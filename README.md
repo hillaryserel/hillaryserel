@@ -11,7 +11,7 @@
 
 ### 1. [Ecommerce Website](https://hillaryserel.github.io/Ecommerce-Website/)
 
-### 2. [Project Name 2](https://github.com/your-username/project-repo-2)
+### 2. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
 
 ### 3. [Project Name 3](https://your-username.github.io/project-repo-3)
 
