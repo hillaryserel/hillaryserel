@@ -13,7 +13,7 @@
 
 ### 2. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
 
-### 3. [Project Name 3](https://your-username.github.io/project-repo-3)
+### 3. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
 
 ### 4. [Project Name 3](https://your-username.github.io/project-repo-3)
 
