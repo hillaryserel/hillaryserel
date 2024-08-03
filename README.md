@@ -37,7 +37,9 @@
 
 ### 14. [LinkedIn-Notification-UI](https://hillaryserel.github.io/LinkedIn-Notification-UI/)
 
-### 11. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
+### 15. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
+
+### 11. [Animated Login Form](https://hillaryserel.github.io/Animated-Login-Form/)
 
 ## Contact
 
