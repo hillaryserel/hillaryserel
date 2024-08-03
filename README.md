@@ -17,7 +17,7 @@
 
 ### 4. [3D Animated Movie Poster](https://hillaryserel.github.io/3D-Movie-Animated-Poster/)
 
-### 5. [Project Name 3](https://your-username.github.io/project-repo-3)
+### 5. [Direct Messaging UI](https://hillaryserel.github.io/Direct-Messaging-UI/)
 
 ### 6. [Project Name 3](https://your-username.github.io/project-repo-3)
 
