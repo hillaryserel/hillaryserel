@@ -45,7 +45,7 @@
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- LinkedIn: https://www.linkedin.com/in/hillaryserel/
 - Email: muraihillary00@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
