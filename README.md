@@ -9,8 +9,6 @@
 
 ## Projects i've previously worked on:
 
-### 1. [Ecommerce Website](https://hillaryserel.github.io/Ecommerce-Website/)
-
 ### 2. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
 
 ### 3. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
