@@ -13,35 +13,37 @@
 
 ### 2. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
 
-### 3. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
+### 3. [Portfolio](https://hillaryserel.github.io/Portfolio/)
 
-### 4. [3D Animated Movie Poster](https://hillaryserel.github.io/3D-Movie-Animated-Poster/)
+### 4. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
 
-### 5. [Direct Messaging UI](https://hillaryserel.github.io/Direct-Messaging-UI/)
+### 5. [3D Animated Movie Poster](https://hillaryserel.github.io/3D-Movie-Animated-Poster/)
 
-### 6. [Contact Form with Validation](https://hillaryserel.github.io/Contact-Form-with-Validation/)
+### 6. [Direct Messaging UI](https://hillaryserel.github.io/Direct-Messaging-UI/)
 
-### 7. [Online Code Editor](https://hillaryserel.github.io/Online-Code-Editor/)
+### 7. [Contact Form with Validation](https://hillaryserel.github.io/Contact-Form-with-Validation/)
 
-### 8. [Task-Management-App-UI](https://hillaryserel.github.io/Task-Management-App-UI/)
+### 8. [Online Code Editor](https://hillaryserel.github.io/Online-Code-Editor/)
 
-### 9. [Text to Speech Converter](https://hillaryserel.github.io/Text-to-Speech-Converter/)
+### 9. [Task-Management-App-UI](https://hillaryserel.github.io/Task-Management-App-UI/)
 
-### 10. [Online Quiz Platform](https://hillaryserel.github.io/Online-Quiz-Platform/)
+### 10. [Text to Speech Converter](https://hillaryserel.github.io/Text-to-Speech-Converter/)
 
-### 11. [Technical Documentation Page](https://hillaryserel.github.io/Technical-Documentation-Page/)
+### 11. [Online Quiz Platform](https://hillaryserel.github.io/Online-Quiz-Platform/)
 
-### 12. [Product Filtering UI](https://hillaryserel.github.io/Product-Filtering-UI/)
+### 12. [Technical Documentation Page](https://hillaryserel.github.io/Technical-Documentation-Page/)
 
-### 13. [Liquid Background Effect](https://hillaryserel.github.io/Liquid-Background-Effect/)
+### 13. [Product Filtering UI](https://hillaryserel.github.io/Product-Filtering-UI/)
 
-### 14. [LinkedIn-Notification-UI](https://hillaryserel.github.io/LinkedIn-Notification-UI/)
+### 14. [Liquid Background Effect](https://hillaryserel.github.io/Liquid-Background-Effect/)
 
-### 15. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
+### 15. [LinkedIn-Notification-UI](https://hillaryserel.github.io/LinkedIn-Notification-UI/)
 
-### 16. [Animated Login Form](https://hillaryserel.github.io/Animated-Login-Form/)
+### 16. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
 
-### 17. [Scroll-with-light-mode](https://hillaryserel.github.io/Scroll-with-light-mode/)
+### 17. [Animated Login Form](https://hillaryserel.github.io/Animated-Login-Form/)
+
+### 18. [Scroll-with-light-mode](https://hillaryserel.github.io/Scroll-with-light-mode/)
 
 ## Contact
 
