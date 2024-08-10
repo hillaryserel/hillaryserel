@@ -46,7 +46,6 @@
 ### 18. [Scroll-with-light-mode](https://hillaryserel.github.io/Scroll-with-light-mode/)
 
 ## Contact
-
 - LinkedIn: https://www.linkedin.com/in/hillaryserel/
 - Email: muraihillary00@gmail.com
 
