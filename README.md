@@ -11,7 +11,7 @@
 
 ### 1. [Ecommerce-Website](https://hillaryserel.github.io/Ecommerce-Website/)
 
-### 2. [Product Filtering UI](https://hillaryserel.github.io/Product-Filtering-UI/)
+### 2. [Product Filtering App](https://hillaryserel.github.io/Product-Filtering-UI/)
 
 ### 3. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
 
