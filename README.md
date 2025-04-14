@@ -11,7 +11,7 @@
 
 ### 1. [Ecommerce-Website](https://hillaryserel.github.io/Ecommerce-Website/)
 
-### 2. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
+### 2. [Product Filtering UI](https://hillaryserel.github.io/Product-Filtering-UI/)
 
 ### 3. [Responsive Dashboard](https://hillaryserel.github.io/Responsive-Dashboard/)
 
@@ -31,7 +31,7 @@
 
 ### 11. [Technical Documentation Page](https://hillaryserel.github.io/Technical-Documentation-Page/)
 
-### 12. [Product Filtering UI](https://hillaryserel.github.io/Product-Filtering-UI/)
+### 12. [Recipe App Finder](https://hillaryserel.github.io/Recipe-App-Finder/)
 
 ### 13. [Liquid Background Effect](https://hillaryserel.github.io/Liquid-Background-Effect/)
 
