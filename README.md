@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hillary Murai</h1>
+<h1 align="center">Hi 👋, I'm Hillary Ochieng</h1>
 <h3 align="center">A passionate Frontend Developer from Kenya</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
