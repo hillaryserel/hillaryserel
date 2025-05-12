@@ -25,7 +25,7 @@
 
 ### 8. [Task-Management-App-UI](https://hillaryserel.github.io/Task-Management-App-UI/)
 
-### 9. [Text to Speech Converter](https://hillaryserel.github.io/Text-to-Speech-Converter/)
+### 9. [Text to Speech Converter]([https://hillaryserel.github.io/Text-to-Speech-Converter/](https://hillaryserel.github.io/Course-design-cards/)
 
 ### 10. [Online Quiz Platform](https://hillaryserel.github.io/Online-Quiz-Platform/)
 
