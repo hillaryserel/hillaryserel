@@ -39,7 +39,6 @@
 
 ### 15. [CSS Waves](https://hillaryserel.github.io/CSS-Waves/)
 
-### 16. [Animated Login Form](https://hillaryserel.github.io/Animated-Login-Form/)
 
 ### 17. [Scroll-with-light-mode](https://hillaryserel.github.io/Scroll-with-light-mode/)
 
